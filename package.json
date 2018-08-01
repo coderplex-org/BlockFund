@@ -1,8 +1,8 @@
 {
-  "name": "truffle-vue",
-  "version": "0.2.0",
-  "description": "A vue.js truffle box",
-  "author": "osarrouy <olivier.sarrouy@gmail.com>",
+  "name": "blockfund",
+  "version": "0.0.1",
+  "description": "A blockchain-based crowd-funding platform",
+  "author": "Bhanu Teja <pbteja1998@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node scripts/dev-server.js",
